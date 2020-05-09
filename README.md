@@ -1,5 +1,5 @@
-# twitter
-Programmes making use of the Twitter API.
+<h1>Twitter</h1>
+<p>Programmes making use of the Twitter API. Mostly in Python, although some PHP for UI.</p>
 
 <h2>scrape_big.py</h2>
 <p>When scraping Tweets from a given user's timeline, Twitter has an initial limit of 200 per go. However, you can get round this and use the full allocation of 3,200 by using the max_id parameter.<p>
